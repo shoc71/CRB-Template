@@ -1,6 +1,5 @@
 # CRB-Template
-written by shoc71;
-Thanks to the following contributors []
+written by shoc71
 
 ## Description
 A Client-side React Bootstrap Template for future frontend development to make website building easier and simplier for myself and other future projects.

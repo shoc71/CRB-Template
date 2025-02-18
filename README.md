@@ -1,4 +1,4 @@
-# CRB-Template
+# Client-React-Bootstrap (CRB)js Template
 written by shoc71
 
 ## Description

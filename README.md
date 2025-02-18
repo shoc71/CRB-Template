@@ -15,7 +15,7 @@ A Client-side React Bootstrap Template for future frontend development to make w
 ## Installation
 1. Open up terminal (more specifically [bash](https://www.youtube.com/watch?v=3eu67g3PTdk))
 2. Install ```npm``` and ```node``` packages on your desktop
-3. Type the following command: ```git clone git@github.com:shoc71/CRB-Template.git```
+3. Type the following command: ```git clone git@github.com:shoc71/CRB.js-Template.git```
 4. Type the following command: ```npm i ``` 
 5. Type the following command: ```npm run build ``` 
 6. Change into following directory using this command ```cd dist``` or ```cd build```
@@ -39,8 +39,8 @@ For any questions or concerns, please email mrdrlogic@gmail.com
 ## Links
 Youtube Tutorial: [Click Unlisted Video Here](#)
 
-Deployed Webpage: https://shoc71.github.io/CRB-Template/
+Deployed Webpage: https://shoc71.github.io/CRB.js-Template/
 
-GitHub Repo: https://github.com/shoc71/CRB-Template/
+GitHub Repo: https://github.com/shoc71/CRB.js-Template/
 
 GitHub Profile: [shoc71](https://github.com/shoc71)
